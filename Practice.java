@@ -6,6 +6,6 @@ public class Practice {
 		double a = 123.45;
 		double b = 678.90;
 		double c = a + b/2;
-		System.out.println("The average of "+a+" and "+b+" is "+ c + ".");
+		System.out.println("The mean of "+a+" and "+b+" is "+ c + ".");
 	}
 }
